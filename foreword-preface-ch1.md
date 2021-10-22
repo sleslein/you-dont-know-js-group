@@ -11,5 +11,9 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 
 ## Preface
 
+- Note JavaScript the Good Parts! Informed much of my JS view
+- Note History and how JS was created. [Fireship.io video](https://fireship.io/courses/javascript/intro-history/)
+- 
+
 
 ## Chapter 1: What is JavaScript
