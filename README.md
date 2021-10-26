@@ -4,6 +4,8 @@ Notes from our group's study and discussion of YDKJSY
 ## Participants
 - [Shea Leslein](https://github.com/sleslein)
 - [Shipeng Liu](https://github.com/shipengliu)
+- [Annie Park](https://github.com/hsiaoipark)
+
 
 ## Schedule
 |Date|Topic|
