@@ -9,6 +9,10 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 - If this how the head of VS Code/Node on Azure feels... I will definitely learn sometime!
 > ...it's for all software craftspeople who want to master their tools...
 
+### Annie
+- Nice intro into the book, since people picking up the book most likely already know some degree of JS.  
+- It gives a peak of the take away that you'll definitely learn something, even if someone think they already know everything about JS!  So.. read on! 
+
 ## Preface
 
 ### Shea
@@ -17,6 +21,8 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 - Note History and how JS was created. [Fireship.io video](https://fireship.io/courses/javascript/intro-history/)
 - 
 
+### Annie
+- It's a journey....
 
 ## Chapter 1: What is JavaScript
 
@@ -37,3 +43,9 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 
 - Concludes with a really great summary!  See the Defined section
 
+### Annie
+- The Web Rules Everything
+- alert() & console.log() is not JS!!
+- Backward vs Foreward compatibility.
+- JS is Complied language
+- try use "strict" mode more....
