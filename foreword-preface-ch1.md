@@ -13,6 +13,10 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 - Nice intro into the book, since people picking up the book most likely already know some degree of JS.  
 - It gives a peak of the take away that you'll definitely learn something, even if someone think they already know everything about JS!  So.. read on! 
 
+### Shipeng
+- After reading I feel I probably don't know JS yet. 
+- It's a good book to build up a solid fundation by explaining fundamental concepts. 
+
 ## Preface
 
 ### Shea
@@ -23,6 +27,10 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 
 ### Annie
 - It's a journey....
+
+### Shipeng
+- Exploring all the parts
+- Respect the language
 
 ## Chapter 1: What is JavaScript
 
@@ -49,3 +57,9 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 - Backward vs Foreward compatibility.
 - JS is Complied language
 - try use "strict" mode more....
+
+### Shipeng
+- JavaScript is most definitely a multi-paradigm language
+- Transpiler and Polyfill for addressing gap
+- Use the most recent stable JS version and newest syntax
+- WASM will not replace JS
