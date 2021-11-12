@@ -67,3 +67,14 @@ YES YES YES!!!!!
 https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#so-many-function-forms
 - function name inference
 
+## Jay
+- It was intersting to see the different ways the Javascript design patterns have evolved.
+**What I learnd**
+- back-tick vs double quote
+- This i found intersting from my research- Why is Null an object?
+    As promised, now let’s look as to why the type of null is an “object”. As it then indicates that null must be an object, which is not true. In fact, null is one of the primitive values in JavaScript.
+    It is actually a bug in the language and unfortunately can’t be fixed that easily, as it will break the existing codebase. However, there is actually one logical explanation behind why null is an object in javascript.
+    In the initial version of JavaScript, values were stored in 32 bit units. The first 3 bits represented the data type tag followed by the remaining bits that represented the value.
+    For all objects it was 000 as the type tag bits. null was considered to be a special value in JavaScript from its very first version. null was a representation of the null pointer. However, there were no pointers in JavaScript like C. So null simply meant nothing or void and was represented by all 0’s. Hence all its 32 bits were 0’s. So whenever the JavaScrit interpreter reads null, it considers the first 3 bits as type “object”. That is why typeof null returns “object”.
+- === vs == (where I have been burned in the past)
+- My annoyance of Anonyous functions only only increased and definitely see named functions only in my future :slightly_smiling_face:
