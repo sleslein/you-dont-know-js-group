@@ -52,3 +52,18 @@ YES YES YES!!!!!
 
 **Questions**
 - when use classes and when use modules
+
+## Annie
+
+- I like how he explained why things are working in JS the way they are.  
+
+**What I learned**
+- each file is a program... makes me think of `slickgrid`.  
+- interpolation.... Ah... that's what it is..  I was like Hum.. new keyboard symbol! 
+- nice to see the comparison of different function styles, module/class, etc. 
+- new trick, Object.is(...).  Can't wait to use it.   
+- === vs ==
+
+https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#so-many-function-forms
+- function name inference
+
