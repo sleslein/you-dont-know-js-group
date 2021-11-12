@@ -36,3 +36,19 @@ YES YES YES!!!!!
 
 - What do you make of Kyle's closing comments?  
   > I'm serious when I suggest: re-read this chapter, maybe several times. 
+
+## Shipeng
+
+- A lot of information, good to know but better to have real world examples to understand pros and cons for each feature easily.
+
+**What I learned**
+- double-quote = single-quote <> back-tick (interpolation)
+- it's safest and best to use only undefined as the single empty value
+- let (block scoping)
+- function declaration vs function expression 
+- functions are values
+- equality comparison (===, Object.is(..), identity equality for object values, ==, >, <, <=, >= coercive equality) vs equivalence comparison.
+- class vs module
+
+**Questions**
+- when use classes and when use modules
