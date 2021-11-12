@@ -78,3 +78,20 @@ https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#so-man
     For all objects it was 000 as the type tag bits. null was considered to be a special value in JavaScript from its very first version. null was a representation of the null pointer. However, there were no pointers in JavaScript like C. So null simply meant nothing or void and was represented by all 0’s. Hence all its 32 bits were 0’s. So whenever the JavaScrit interpreter reads null, it considers the first 3 bits as type “object”. That is why typeof null returns “object”.
 - === vs == (where I have been burned in the past)
 - My annoyance of Anonyous functions only only increased and definitely see named functions only in my future :slightly_smiling_face:
+
+f = (x,y) => x * y;
+
+## Discussion example
+// High Order Function
+f = (x) => (y) => x * y;
+
+function multiply(x) {
+  function inner(y) {
+    returhn x * y;
+  }
+  return inner;
+}
+
+const multipleByMe = multiply(5);
+const 5x7 = multiplyByMe(7); // 35
+
