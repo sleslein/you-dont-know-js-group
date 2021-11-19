@@ -54,3 +54,17 @@ The content for Chapter 3: Digging to the Roots of JS can be found [here](https:
 - Mention of how important closures are!  Eric Elliot considers closures a key interview question.
 
 **Questions for the Group**
+
+## Shipeng
+
+**What I learned**
+- Iteration: It reminds me the old good time at college learning design patterns, iterator was the first patten I'v leaned! spread operator and map are very similar to what's in GO.
+- Clousure: Objects don't get closures, functions do. They are a direct link and preservation of the variable itself.
+- This: is a characteristic of function execution, a function that is dependent on its execution context.
+- Prototypes: is a characteristic of an object, and specifically resolution of a property access.
+
+**What I need**
+- More design pattern examples in JS please.
+
+**Questions**
+- Do we use Prototypes linkage a lot in DC UI? It sounds like a lighweight class inheritance, although it does compares class vs prototypal class in Appendix A.
