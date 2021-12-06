@@ -15,6 +15,20 @@ The content for Chapter 4: The Bigger Picture can be found [here](https://github
 
 **What I Liked**
 
+- Pillar 2
+  > Even if you love TypeScript/Flow, you are not going to get the most out of those tools or coding approaches if you aren't deeply familiar with how the language itself manages value types.
+
+  This resonates with me.  We need to understand JS reguardless to our use of TS.  It all compiles down to JS in the end.
+  
+- [With the Grain](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch4.md#with-the-grain)
+  - What a great section!  So much empathy and kindness!  Own your opinions! 
+  - > Can you make your JS program look like a Java, C#, or Perl program? What about Python or Ruby, or even PHP? To varying degrees, sure you can. But should you?
+    > No, I don't think you should.  
+
+  - > But if you choose to align with my opinions, you have to be prepared to back up those choices with why you feel that way. Don't just parrot what I say. Own your opinions. Defend them. And if someone you were hoping to work with disagrees, walk away with your head still held high. It's a big JS, and there's plenty of room for lots of different ways.
+  - **FAVORITE!!!** 
+    > That's the most important advice I can impart to help you learn JS. *Always keep looking for better ways to use what JS gives us to author more readable code.* Everyone who works on your code, including your future self, will thank you!
+
 **Questions for the Group**
 
 ## Shipeng
