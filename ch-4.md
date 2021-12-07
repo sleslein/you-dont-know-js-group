@@ -32,3 +32,12 @@ The content for Chapter 4: The Bigger Picture can be found [here](https://github
 **Questions for the Group**
 
 ## Shipeng
+I like the pillars!
+- Pillar 1: Scope and Closure
+  - JS is lexically scoped
+  - "Temporal Dead Zone" (TDZ)
+- Pillar 2: Prototypes
+  - JS is one of very few languages where you have the option to create objects directly and explicitly, without first defining their structure in a class.
+  - prototypal inheritance vs behavior delegation
+- Pillar 3: Types and Coercion
+   - foundation of JS 
